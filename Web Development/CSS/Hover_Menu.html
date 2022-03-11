@@ -1,0 +1,44 @@
+<html>
+	<head>
+		
+		<title>CSS Hover Element - Selector OR Child Combinator</title>
+		
+		<style type="text/css">
+			#MainUL li ul li{display:none;}
+			#MainUL li:hover ul li{display:block;}
+			#MainUL li:hover ul li ul li{display:none;}
+			#MainUL li ul li:hover ul li{display:block;}
+			#MainUL li ul li:hover ul li ul li{display:none;}
+			#MainUL li ul li ul li:hover ul li{display:block;}
+		</style>
+		
+	</head>
+	<body>
+		
+		<ul id="MainUL">
+			<li>Deepanshi
+				<ul>
+					<li>Qualifications
+						<ul>
+							<li>SSC</li>
+							<li>HSC
+								<ul>
+									<li>BBA</li>
+									<li>MBA</li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+					<li>FINANCE</li>
+					<li>HR</li>
+					<li>MARKETING</li>
+				</ul>
+			</li>
+			<li>Riddhi</li>
+			<li>Foram</li>
+			<li>Kruti</li>
+			<li>Zarna</li>
+		</ul>
+		
+	</body>
+</html>

@@ -1,0 +1,30 @@
+C:\Users\Hetal.Patil\source\repos\OOPS_Project\OOPS_Project\obj\Debug\net6.0\OOPS_Project.csproj.AssemblyReference.cache
+C:\Users\Hetal.Patil\source\repos\OOPS_Project\OOPS_Project\obj\Debug\net6.0\OOPS_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hetal.Patil\source\repos\OOPS_Project\OOPS_Project\obj\Debug\net6.0\OOPS_Project.AssemblyInfoInputs.cache
+C:\Users\Hetal.Patil\source\repos\OOPS_Project\OOPS_Project\obj\Debug\net6.0\OOPS_Project.AssemblyInfo.cs
+C:\Users\Hetal.Patil\source\repos\OOPS_Project\OOPS_Project\obj\Debug\net6.0\OOPS_Project.csproj.CoreCompileInputs.cache
+C:\Users\Hetal.Patil\source\repos\OOPS_Project\OOPS_Project\bin\Debug\net6.0\OOPS_Project.exe
+C:\Users\Hetal.Patil\source\repos\OOPS_Project\OOPS_Project\bin\Debug\net6.0\OOPS_Project.deps.json
+C:\Users\Hetal.Patil\source\repos\OOPS_Project\OOPS_Project\bin\Debug\net6.0\OOPS_Project.runtimeconfig.json
+C:\Users\Hetal.Patil\source\repos\OOPS_Project\OOPS_Project\bin\Debug\net6.0\OOPS_Project.dll
+C:\Users\Hetal.Patil\source\repos\OOPS_Project\OOPS_Project\bin\Debug\net6.0\OOPS_Project.pdb
+C:\Users\Hetal.Patil\source\repos\OOPS_Project\OOPS_Project\obj\Debug\net6.0\OOPS_Project.dll
+C:\Users\Hetal.Patil\source\repos\OOPS_Project\OOPS_Project\obj\Debug\net6.0\refint\OOPS_Project.dll
+C:\Users\Hetal.Patil\source\repos\OOPS_Project\OOPS_Project\obj\Debug\net6.0\OOPS_Project.pdb
+C:\Users\Hetal.Patil\source\repos\OOPS_Project\OOPS_Project\obj\Debug\net6.0\OOPS_Project.genruntimeconfig.cache
+C:\Users\Hetal.Patil\source\repos\OOPS_Project\OOPS_Project\obj\Debug\net6.0\ref\OOPS_Project.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Documents\GitHub\Practice\OOPS\OOPS_Project_4_3\OOPS_Project\bin\Debug\net6.0\OOPS_Project.exe
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Documents\GitHub\Practice\OOPS\OOPS_Project_4_3\OOPS_Project\bin\Debug\net6.0\OOPS_Project.deps.json
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Documents\GitHub\Practice\OOPS\OOPS_Project_4_3\OOPS_Project\bin\Debug\net6.0\OOPS_Project.runtimeconfig.json
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Documents\GitHub\Practice\OOPS\OOPS_Project_4_3\OOPS_Project\bin\Debug\net6.0\OOPS_Project.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Documents\GitHub\Practice\OOPS\OOPS_Project_4_3\OOPS_Project\bin\Debug\net6.0\OOPS_Project.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Documents\GitHub\Practice\OOPS\OOPS_Project_4_3\OOPS_Project\obj\Debug\net6.0\OOPS_Project.csproj.AssemblyReference.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Documents\GitHub\Practice\OOPS\OOPS_Project_4_3\OOPS_Project\obj\Debug\net6.0\OOPS_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Documents\GitHub\Practice\OOPS\OOPS_Project_4_3\OOPS_Project\obj\Debug\net6.0\OOPS_Project.AssemblyInfoInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Documents\GitHub\Practice\OOPS\OOPS_Project_4_3\OOPS_Project\obj\Debug\net6.0\OOPS_Project.AssemblyInfo.cs
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Documents\GitHub\Practice\OOPS\OOPS_Project_4_3\OOPS_Project\obj\Debug\net6.0\OOPS_Project.csproj.CoreCompileInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Documents\GitHub\Practice\OOPS\OOPS_Project_4_3\OOPS_Project\obj\Debug\net6.0\OOPS_Project.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Documents\GitHub\Practice\OOPS\OOPS_Project_4_3\OOPS_Project\obj\Debug\net6.0\refint\OOPS_Project.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Documents\GitHub\Practice\OOPS\OOPS_Project_4_3\OOPS_Project\obj\Debug\net6.0\OOPS_Project.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Documents\GitHub\Practice\OOPS\OOPS_Project_4_3\OOPS_Project\obj\Debug\net6.0\OOPS_Project.genruntimeconfig.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Documents\GitHub\Practice\OOPS\OOPS_Project_4_3\OOPS_Project\obj\Debug\net6.0\ref\OOPS_Project.dll

@@ -1,0 +1,45 @@
+D:\Bootcamp_myproject\OOPS\Collection\Collection\obj\Debug\net6.0\Collection.csproj.AssemblyReference.cache
+D:\Bootcamp_myproject\OOPS\Collection\Collection\obj\Debug\net6.0\Collection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp_myproject\OOPS\Collection\Collection\obj\Debug\net6.0\Collection.AssemblyInfoInputs.cache
+D:\Bootcamp_myproject\OOPS\Collection\Collection\obj\Debug\net6.0\Collection.AssemblyInfo.cs
+D:\Bootcamp_myproject\OOPS\Collection\Collection\obj\Debug\net6.0\Collection.csproj.CoreCompileInputs.cache
+D:\Bootcamp_myproject\OOPS\Collection\Collection\bin\Debug\net6.0\Collection.exe
+D:\Bootcamp_myproject\OOPS\Collection\Collection\bin\Debug\net6.0\Collection.deps.json
+D:\Bootcamp_myproject\OOPS\Collection\Collection\bin\Debug\net6.0\Collection.runtimeconfig.json
+D:\Bootcamp_myproject\OOPS\Collection\Collection\bin\Debug\net6.0\Collection.dll
+D:\Bootcamp_myproject\OOPS\Collection\Collection\bin\Debug\net6.0\Collection.pdb
+D:\Bootcamp_myproject\OOPS\Collection\Collection\obj\Debug\net6.0\Collection.dll
+D:\Bootcamp_myproject\OOPS\Collection\Collection\obj\Debug\net6.0\refint\Collection.dll
+D:\Bootcamp_myproject\OOPS\Collection\Collection\obj\Debug\net6.0\Collection.pdb
+D:\Bootcamp_myproject\OOPS\Collection\Collection\obj\Debug\net6.0\Collection.genruntimeconfig.cache
+D:\Bootcamp_myproject\OOPS\Collection\Collection\obj\Debug\net6.0\ref\Collection.dll
+D:\Training\oops\OOPS\Collection\Collection\bin\Debug\net6.0\Collection.exe
+D:\Training\oops\OOPS\Collection\Collection\bin\Debug\net6.0\Collection.deps.json
+D:\Training\oops\OOPS\Collection\Collection\bin\Debug\net6.0\Collection.runtimeconfig.json
+D:\Training\oops\OOPS\Collection\Collection\bin\Debug\net6.0\Collection.dll
+D:\Training\oops\OOPS\Collection\Collection\bin\Debug\net6.0\Collection.pdb
+D:\Training\oops\OOPS\Collection\Collection\obj\Debug\net6.0\Collection.csproj.AssemblyReference.cache
+D:\Training\oops\OOPS\Collection\Collection\obj\Debug\net6.0\Collection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\oops\OOPS\Collection\Collection\obj\Debug\net6.0\Collection.AssemblyInfoInputs.cache
+D:\Training\oops\OOPS\Collection\Collection\obj\Debug\net6.0\Collection.AssemblyInfo.cs
+D:\Training\oops\OOPS\Collection\Collection\obj\Debug\net6.0\Collection.csproj.CoreCompileInputs.cache
+D:\Training\oops\OOPS\Collection\Collection\obj\Debug\net6.0\Collection.dll
+D:\Training\oops\OOPS\Collection\Collection\obj\Debug\net6.0\refint\Collection.dll
+D:\Training\oops\OOPS\Collection\Collection\obj\Debug\net6.0\Collection.pdb
+D:\Training\oops\OOPS\Collection\Collection\obj\Debug\net6.0\Collection.genruntimeconfig.cache
+D:\Training\oops\OOPS\Collection\Collection\obj\Debug\net6.0\ref\Collection.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Documents\GitHub\Practice\OOPS\Collection\Collection\bin\Debug\net6.0\Collection.exe
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Documents\GitHub\Practice\OOPS\Collection\Collection\bin\Debug\net6.0\Collection.deps.json
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Documents\GitHub\Practice\OOPS\Collection\Collection\bin\Debug\net6.0\Collection.runtimeconfig.json
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Documents\GitHub\Practice\OOPS\Collection\Collection\bin\Debug\net6.0\Collection.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Documents\GitHub\Practice\OOPS\Collection\Collection\bin\Debug\net6.0\Collection.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Documents\GitHub\Practice\OOPS\Collection\Collection\obj\Debug\net6.0\Collection.csproj.AssemblyReference.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Documents\GitHub\Practice\OOPS\Collection\Collection\obj\Debug\net6.0\Collection.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Documents\GitHub\Practice\OOPS\Collection\Collection\obj\Debug\net6.0\Collection.AssemblyInfoInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Documents\GitHub\Practice\OOPS\Collection\Collection\obj\Debug\net6.0\Collection.AssemblyInfo.cs
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Documents\GitHub\Practice\OOPS\Collection\Collection\obj\Debug\net6.0\Collection.csproj.CoreCompileInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Documents\GitHub\Practice\OOPS\Collection\Collection\obj\Debug\net6.0\Collection.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Documents\GitHub\Practice\OOPS\Collection\Collection\obj\Debug\net6.0\refint\Collection.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Documents\GitHub\Practice\OOPS\Collection\Collection\obj\Debug\net6.0\Collection.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Documents\GitHub\Practice\OOPS\Collection\Collection\obj\Debug\net6.0\Collection.genruntimeconfig.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Documents\GitHub\Practice\OOPS\Collection\Collection\obj\Debug\net6.0\ref\Collection.dll

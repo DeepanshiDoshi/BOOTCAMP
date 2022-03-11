@@ -1,0 +1,60 @@
+D:\Bootcamp_myproject\OOPS\Basics\Basics\obj\Debug\net6.0\Basics.csproj.AssemblyReference.cache
+D:\Bootcamp_myproject\OOPS\Basics\Basics\obj\Debug\net6.0\Basics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp_myproject\OOPS\Basics\Basics\obj\Debug\net6.0\Basics.AssemblyInfoInputs.cache
+D:\Bootcamp_myproject\OOPS\Basics\Basics\obj\Debug\net6.0\Basics.AssemblyInfo.cs
+D:\Bootcamp_myproject\OOPS\Basics\Basics\obj\Debug\net6.0\Basics.csproj.CoreCompileInputs.cache
+D:\Bootcamp_myproject\OOPS\Basics\Basics\bin\Debug\net6.0\Basics.exe
+D:\Bootcamp_myproject\OOPS\Basics\Basics\bin\Debug\net6.0\Basics.deps.json
+D:\Bootcamp_myproject\OOPS\Basics\Basics\bin\Debug\net6.0\Basics.runtimeconfig.json
+D:\Bootcamp_myproject\OOPS\Basics\Basics\bin\Debug\net6.0\Basics.dll
+D:\Bootcamp_myproject\OOPS\Basics\Basics\bin\Debug\net6.0\Basics.pdb
+D:\Bootcamp_myproject\OOPS\Basics\Basics\obj\Debug\net6.0\Basics.dll
+D:\Bootcamp_myproject\OOPS\Basics\Basics\obj\Debug\net6.0\refint\Basics.dll
+D:\Bootcamp_myproject\OOPS\Basics\Basics\obj\Debug\net6.0\Basics.pdb
+D:\Bootcamp_myproject\OOPS\Basics\Basics\obj\Debug\net6.0\Basics.genruntimeconfig.cache
+D:\Bootcamp_myproject\OOPS\Basics\Basics\obj\Debug\net6.0\ref\Basics.dll
+D:\Training\oops\OOPS\Basics\Basics\bin\Debug\net6.0\Basics.exe
+D:\Training\oops\OOPS\Basics\Basics\bin\Debug\net6.0\Basics.deps.json
+D:\Training\oops\OOPS\Basics\Basics\bin\Debug\net6.0\Basics.runtimeconfig.json
+D:\Training\oops\OOPS\Basics\Basics\bin\Debug\net6.0\Basics.dll
+D:\Training\oops\OOPS\Basics\Basics\bin\Debug\net6.0\Basics.pdb
+D:\Training\oops\OOPS\Basics\Basics\obj\Debug\net6.0\Basics.csproj.AssemblyReference.cache
+D:\Training\oops\OOPS\Basics\Basics\obj\Debug\net6.0\Basics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\oops\OOPS\Basics\Basics\obj\Debug\net6.0\Basics.AssemblyInfoInputs.cache
+D:\Training\oops\OOPS\Basics\Basics\obj\Debug\net6.0\Basics.AssemblyInfo.cs
+D:\Training\oops\OOPS\Basics\Basics\obj\Debug\net6.0\Basics.csproj.CoreCompileInputs.cache
+D:\Training\oops\OOPS\Basics\Basics\obj\Debug\net6.0\Basics.dll
+D:\Training\oops\OOPS\Basics\Basics\obj\Debug\net6.0\refint\Basics.dll
+D:\Training\oops\OOPS\Basics\Basics\obj\Debug\net6.0\Basics.pdb
+D:\Training\oops\OOPS\Basics\Basics\obj\Debug\net6.0\Basics.genruntimeconfig.cache
+D:\Training\oops\OOPS\Basics\Basics\obj\Debug\net6.0\ref\Basics.dll
+D:\OOPS\Basics\Basics\bin\Debug\net6.0\Basics.exe
+D:\OOPS\Basics\Basics\bin\Debug\net6.0\Basics.deps.json
+D:\OOPS\Basics\Basics\bin\Debug\net6.0\Basics.runtimeconfig.json
+D:\OOPS\Basics\Basics\bin\Debug\net6.0\Basics.dll
+D:\OOPS\Basics\Basics\bin\Debug\net6.0\Basics.pdb
+D:\OOPS\Basics\Basics\obj\Debug\net6.0\Basics.csproj.AssemblyReference.cache
+D:\OOPS\Basics\Basics\obj\Debug\net6.0\Basics.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOPS\Basics\Basics\obj\Debug\net6.0\Basics.AssemblyInfoInputs.cache
+D:\OOPS\Basics\Basics\obj\Debug\net6.0\Basics.AssemblyInfo.cs
+D:\OOPS\Basics\Basics\obj\Debug\net6.0\Basics.csproj.CoreCompileInputs.cache
+D:\OOPS\Basics\Basics\obj\Debug\net6.0\Basics.dll
+D:\OOPS\Basics\Basics\obj\Debug\net6.0\refint\Basics.dll
+D:\OOPS\Basics\Basics\obj\Debug\net6.0\Basics.pdb
+D:\OOPS\Basics\Basics\obj\Debug\net6.0\Basics.genruntimeconfig.cache
+D:\OOPS\Basics\Basics\obj\Debug\net6.0\ref\Basics.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Documents\GitHub\Practice\OOPS\Basics\Basics\bin\Debug\net6.0\Basics.exe
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Documents\GitHub\Practice\OOPS\Basics\Basics\bin\Debug\net6.0\Basics.deps.json
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Documents\GitHub\Practice\OOPS\Basics\Basics\bin\Debug\net6.0\Basics.runtimeconfig.json
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Documents\GitHub\Practice\OOPS\Basics\Basics\bin\Debug\net6.0\Basics.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Documents\GitHub\Practice\OOPS\Basics\Basics\bin\Debug\net6.0\Basics.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Documents\GitHub\Practice\OOPS\Basics\Basics\obj\Debug\net6.0\Basics.csproj.AssemblyReference.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Documents\GitHub\Practice\OOPS\Basics\Basics\obj\Debug\net6.0\Basics.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Documents\GitHub\Practice\OOPS\Basics\Basics\obj\Debug\net6.0\Basics.AssemblyInfoInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Documents\GitHub\Practice\OOPS\Basics\Basics\obj\Debug\net6.0\Basics.AssemblyInfo.cs
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Documents\GitHub\Practice\OOPS\Basics\Basics\obj\Debug\net6.0\Basics.csproj.CoreCompileInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Documents\GitHub\Practice\OOPS\Basics\Basics\obj\Debug\net6.0\Basics.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Documents\GitHub\Practice\OOPS\Basics\Basics\obj\Debug\net6.0\refint\Basics.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Documents\GitHub\Practice\OOPS\Basics\Basics\obj\Debug\net6.0\Basics.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Documents\GitHub\Practice\OOPS\Basics\Basics\obj\Debug\net6.0\Basics.genruntimeconfig.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Documents\GitHub\Practice\OOPS\Basics\Basics\obj\Debug\net6.0\ref\Basics.dll

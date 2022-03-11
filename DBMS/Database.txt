@@ -1,0 +1,81 @@
+Database create: 
+CREATE DATABASE demo;
+
+Table create:
+CREATE TABLE employee (
+    e_id int(10),
+    e_fname varchar(20),
+    e_lname varchar(20),
+    e_email varchar(30),
+    e_contact varchar(10),
+    e_city varchar(30),
+    e_salary varchar(20));
+   
+
+Insert Data:
+INSERT INTO `employee` (`e_id`, `e_fname`, `e_lname`, `e_email`, `e_contact`, `e_city`, `e_salary`) VALUES
+(1, 'Deepanshi', 'Doshi', 'deepanshidoshi@gmail.com', '9033976003', 'Ahmedabad', '25000'),
+(2, 'Jhanvi', 'Asodiya', 'jhanviasodiya@gmail.com', '9586717500', 'Ahmedabad', '25000'),
+(3, 'Zalak ', 'Thakor', 'zalakthakor@gmail.co', '7896541230', 'Ahmedabad', '26000'),
+(4, 'Kinjal', 'Vaja', 'kvaja@gmail.com', '8523697410', 'Junagadh', '24000'),
+(5, 'Hetal', 'Thakor', 'hetal@gmail.com', '9512368740', 'Ahmedabad', '24000');
+
+WHERE:
+SELECT * FROM `employee` WHERE `e_city`='Ahmedabad';
+
+Update Data:
+UPDATE `employee` SET `e_city`='Vadodara',`e_salary`='26000' WHERE `e_id`=3;
+
+Delete Data:
+DELETE FROM `employee` WHERE `e_id`=5;
+
+Group by:
+SELECT * FROM `employee` group by `e_salary`;
+SELECT * FROM `employee` GROUP by `e_city` HAVING `e_salary`=25000;
+
+Distinct:
+SELECT DISTINCT `e_city` FROM `employee`;
+SELECT DISTINCT `e_salary` FROM `employee` WHERE `e_city`='Ahmedabad';
+
+AND:
+SELECT * FROM `employee` WHERE `e_city`='Ahmedabad' AND `e_salary`=25000;
+SELECT * FROM `employee` WHERE `e_city`='Ahmedabad' OR `e_salary`=26000;
+
+ORDER BY:
+SELECT * FROM `employee` ORDER BY `e_city` DESC
+SELECT * FROM `employee` ORDER BY `e_salary` DESC
+SELECT * FROM `employee` ORDER BY `e_id` DESC
+
+LIKE:
+SELECT * FROM `employee` WHERE `e_fname` Like '%l';
+SELECT * FROM `employee` WHERE `e_fname` Like 'k%';
+SELECT * FROM `employee` WHERE `e_fname` Like '%a_';
+
+JOIN:
+INNER JOIN:
+SELECT * from `student1` INNER JOIN `student2` on student2.s_id=student1.s_id;
+SELECT `s_name` from `student1` INNER JOIN `student2` on student2.s_id=student1.s_id;
+
+
+NATURAL JOIN:
+SELECT * from `student1` NATURAL JOIN  `student2`
+
+
+CROSS JOIN:
+SELECT * from `student1` CROSS JOIN  `student2`;
+
+
+LEFT OUTER JOIN:
+SELECT * from `student1` LEFT OUTER JOIN `student2`on student2.s_id=student1.s_id;
+
+RIGHT OTTER JOIN:
+SELECT * from `student1` RIGHT OUTER JOIN `student2`on student2.s_id=student1.s_id;
+
+FULL OUTER JOIN:
+SELECT * from `student1` FULL OUTER JOIN  `student2` ON (student2.s_id=student1.s_id) ;
+
+DROP:
+DROP TABLE `student1`;
+
+TRUNCATE:
+TRUNCATE TABLE `student2`;

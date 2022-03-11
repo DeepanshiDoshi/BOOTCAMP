@@ -1,0 +1,45 @@
+D:\Bootcamp_myproject\OOPS\Interface\Interface\bin\Debug\net6.0\Interface.exe
+D:\Bootcamp_myproject\OOPS\Interface\Interface\bin\Debug\net6.0\Interface.deps.json
+D:\Bootcamp_myproject\OOPS\Interface\Interface\bin\Debug\net6.0\Interface.runtimeconfig.json
+D:\Bootcamp_myproject\OOPS\Interface\Interface\bin\Debug\net6.0\Interface.dll
+D:\Bootcamp_myproject\OOPS\Interface\Interface\bin\Debug\net6.0\Interface.pdb
+D:\Bootcamp_myproject\OOPS\Interface\Interface\obj\Debug\net6.0\Interface.csproj.AssemblyReference.cache
+D:\Bootcamp_myproject\OOPS\Interface\Interface\obj\Debug\net6.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp_myproject\OOPS\Interface\Interface\obj\Debug\net6.0\Interface.AssemblyInfoInputs.cache
+D:\Bootcamp_myproject\OOPS\Interface\Interface\obj\Debug\net6.0\Interface.AssemblyInfo.cs
+D:\Bootcamp_myproject\OOPS\Interface\Interface\obj\Debug\net6.0\Interface.csproj.CoreCompileInputs.cache
+D:\Bootcamp_myproject\OOPS\Interface\Interface\obj\Debug\net6.0\Interface.dll
+D:\Bootcamp_myproject\OOPS\Interface\Interface\obj\Debug\net6.0\refint\Interface.dll
+D:\Bootcamp_myproject\OOPS\Interface\Interface\obj\Debug\net6.0\Interface.pdb
+D:\Bootcamp_myproject\OOPS\Interface\Interface\obj\Debug\net6.0\Interface.genruntimeconfig.cache
+D:\Bootcamp_myproject\OOPS\Interface\Interface\obj\Debug\net6.0\ref\Interface.dll
+D:\OOPS\Interface\Interface\bin\Debug\net6.0\Interface.exe
+D:\OOPS\Interface\Interface\bin\Debug\net6.0\Interface.deps.json
+D:\OOPS\Interface\Interface\bin\Debug\net6.0\Interface.runtimeconfig.json
+D:\OOPS\Interface\Interface\bin\Debug\net6.0\Interface.dll
+D:\OOPS\Interface\Interface\bin\Debug\net6.0\Interface.pdb
+D:\OOPS\Interface\Interface\obj\Debug\net6.0\Interface.csproj.AssemblyReference.cache
+D:\OOPS\Interface\Interface\obj\Debug\net6.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOPS\Interface\Interface\obj\Debug\net6.0\Interface.AssemblyInfoInputs.cache
+D:\OOPS\Interface\Interface\obj\Debug\net6.0\Interface.AssemblyInfo.cs
+D:\OOPS\Interface\Interface\obj\Debug\net6.0\Interface.csproj.CoreCompileInputs.cache
+D:\OOPS\Interface\Interface\obj\Debug\net6.0\Interface.dll
+D:\OOPS\Interface\Interface\obj\Debug\net6.0\refint\Interface.dll
+D:\OOPS\Interface\Interface\obj\Debug\net6.0\Interface.pdb
+D:\OOPS\Interface\Interface\obj\Debug\net6.0\Interface.genruntimeconfig.cache
+D:\OOPS\Interface\Interface\obj\Debug\net6.0\ref\Interface.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Documents\GitHub\Practice\OOPS\Interface\Interface\bin\Debug\net6.0\Interface.exe
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Documents\GitHub\Practice\OOPS\Interface\Interface\bin\Debug\net6.0\Interface.deps.json
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Documents\GitHub\Practice\OOPS\Interface\Interface\bin\Debug\net6.0\Interface.runtimeconfig.json
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Documents\GitHub\Practice\OOPS\Interface\Interface\bin\Debug\net6.0\Interface.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Documents\GitHub\Practice\OOPS\Interface\Interface\bin\Debug\net6.0\Interface.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Documents\GitHub\Practice\OOPS\Interface\Interface\obj\Debug\net6.0\Interface.csproj.AssemblyReference.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Documents\GitHub\Practice\OOPS\Interface\Interface\obj\Debug\net6.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Documents\GitHub\Practice\OOPS\Interface\Interface\obj\Debug\net6.0\Interface.AssemblyInfoInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Documents\GitHub\Practice\OOPS\Interface\Interface\obj\Debug\net6.0\Interface.AssemblyInfo.cs
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Documents\GitHub\Practice\OOPS\Interface\Interface\obj\Debug\net6.0\Interface.csproj.CoreCompileInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Documents\GitHub\Practice\OOPS\Interface\Interface\obj\Debug\net6.0\Interface.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Documents\GitHub\Practice\OOPS\Interface\Interface\obj\Debug\net6.0\refint\Interface.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Documents\GitHub\Practice\OOPS\Interface\Interface\obj\Debug\net6.0\Interface.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Documents\GitHub\Practice\OOPS\Interface\Interface\obj\Debug\net6.0\Interface.genruntimeconfig.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Documents\GitHub\Practice\OOPS\Interface\Interface\obj\Debug\net6.0\ref\Interface.dll

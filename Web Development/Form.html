@@ -1,0 +1,405 @@
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+	<link rel="stylesheet" type="text/css"
+		href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+		<link href="css/bootstrap/bootstrap.css" rel="stylesheet" type="text/css"
+		integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+
+	<link href="http://code.jquery.com/ui/1.10.4/themes/smoothness/jquery-ui.css" rel="Stylesheet" type="text/css" />
+	<script type="text/javascript" src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
+	<script type="text/javascript" src="http://code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
+
+	<link rel="stylesheet" href="css/bootstrap/bootstrap.min.css">
+
+
+	<script type="text/javascript">
+
+		var TxtFNameFlag = false, TxtLNameFlag = false, TxtEmailIdFlag = false, TxtContactNoFlag = false, TxtPasswordFlag = false, TxtGenderFlag = false, TxtAgeFlag = false, TxtDOBFlag = false;
+
+
+		var $TxtFirstnameRegEx = /^([a-zA-Z]{2,20})$/;
+		var $TxtLastnameRegEx = /^([a-zA-Z]{2,20})$/;
+		var $ConNoRegEx = /^([0-9]{10})$/;
+		var $EmailIdRegEx = /^\b[A-Z0-9._%-]+@[A-Z0-9.-]+\.[A-Z]{2,8}\b$/i;
+		var $PasswordRegEx = /^(?=.*\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[a-zA-Z]).{8,}$/;
+		var $GenderRegEx = /^(M|F)$/;
+		var $AgeRegEx = /^([0-9]{1,2})$/;
+
+
+		$(document).ready(function () {
+			$("#TxtFirstname").blur(function () {
+				$("#TxtFirstnameValidation").empty();
+				if ($(this).val() == "" || $(this).val() == null) {
+					$("#TxtFirstnameValidation").html("(*) FirstName required..!!");
+					TxtFNameFlag = false;
+				}
+				else {
+					if (!$(this).val().match($TxtFirstnameRegEx)) {
+						$("#TxtFirstnameValidation").html("(*) Invalid FirstName..!!");
+						TxtFNameFlag = false;
+					}
+					else {
+						TxtFNameFlag = true;
+					}
+				}
+			});
+
+
+			$("#TxtLastname").blur(function () {
+				$("#TxtLastnameValidation").empty();
+				if ($(this).val() == "" || $(this).val() == null) {
+					$("#TxtLastnameValidation").html("(*) LastName required..!!");
+					TxtLNameFlag = false;
+				}
+				else {
+					if (!$(this).val().match($TxtLastnameRegEx)) {
+						$("#TxtLastnameValidation").html("(*) Invalid LastName..!!");
+						TxtLNameFlag = false;
+					}
+					else {
+						TxtLNameFlag = true;
+					}
+				}
+			});
+
+			$("#TxtEmailId").blur(function () {
+				$("#TxtEmailIdValidation").empty();
+				if ($(this).val() == "" || $(this).val() == null) {
+					$("#TxtEmailIdValidation").html("(*) Email required..!!");
+					TxtEmailIdFlag = false;
+				}
+				else {
+					if (!$(this).val().match($EmailIdRegEx)) {
+						$("#TxtEmailIdValidation").html("(*) Invalid Email Id..!!");
+						TxtEmailIdFlag = false;
+					}
+					else {
+						TxtEmailIdFlag = true;
+					}
+				}
+			});
+
+			$("#TxtContactNo").blur(function () {
+				$("#TxtContactNoValidation").empty();
+				if ($(this).val() == "" || $(this).val() == null) {
+					$("#TxtContactNoValidation").html("(*) Contact required..!!");
+					TxtContactNoFlag = false;
+				}
+				else {
+					if (!$(this).val().match($ConNoRegEx)) {
+						$("#TxtContactNoValidation").html("(*) Invalid Contact No..!!");
+						TxtContactNoFlag = false;
+					}
+					else {
+						TxtContactNoFlag = true;
+					}
+				}
+			});
+
+			$("#TxtPassword").blur(function () {
+				$("#TxtPasswordValidation").empty();
+				if ($(this).val() == "" || $(this).val() == null) {
+					$("#TxtPasswordValidation").html("(*) Password required..!!");
+					TxtPasswordFlag = false;
+				}
+				else {
+					if (!$(this).val().match($PasswordRegEx)) {
+						$("#TxtPasswordValidation").html("(*) Invalid Password..!!");
+						TxtPasswordFlag = false;
+					}
+					else {
+						TxtPasswordFlag = true;
+					}
+				}
+			});
+
+			$("#DDL_Gender").blur(function () {
+				$("#TxtGenderValidation").empty();
+				if ($(this).val() == "" || $(this).val() == null) {
+					$("#TxtGenderValidation").html("(*) Gender required..!!");
+					TxtGenderFlag = false;
+				}
+				else {
+					if (!$(this).val().match($GenderRegEx)) {
+						$("#TxtGenderValidation").html("(*) Invalid Gender..!!");
+						TxtGenderFlag = false;
+					}
+					else {
+						TxtGenderFlag = true;
+					}
+				}
+			});
+
+			$("#TxtAge").blur(function () {
+				$("#TxtAgeValidation").empty();
+				if ($(this).val() == "" || $(this).val() == null) {
+					$("#TxtAgeValidation").html("(*) Age is required..!!");
+					TxtAgeFlag = false;
+				}
+				else {
+					if ((!$(this).val().match($AgeRegEx)) || ($(this).val() < 18) || ($(this).val > 110)) {
+						$("#TxtAgeValidation").html("(*) Invalid Age..!!");
+						TxtAgeFlag = false;
+					}
+					else {
+						TxtAgeFlag = true;
+					}
+				}
+			});
+
+			$('#TxtDOB').datepicker({
+
+				yearRange: "1960:2022",
+
+				maxDate: "-18y",
+				minDate: "-25y",
+
+			});
+			$("#TxtDOBValidation").blur(function () {
+				$("#TxtDOBValidation").empty();
+				if ($("#TxtDOB").val() == "" || $("#TxtDOB").val() == null) {
+					$("#TxtDOBValidation").html("(*) DOB required..!!");
+					TxtDOBFlag = false;
+				}
+				
+				else {
+					TxtDOBFlag = true;
+				}			
+
+			});
+
+
+
+			$("#BtnSubmit").click(function () {
+				$("#TxtFirstnameValidation").empty();
+				if ($("#TxtFirstname").val() == "" || $("#TxtFirstname").val() == null) {
+					$("#TxtFirstnameValidation").html("(*) Firstname required..!!");
+					TxtFNameFlag = false;
+				}
+				else {
+					if (!$("#TxtFirstname").val().match($TxtFirstnameRegEx)) {
+						$("#TxtFirstnameValidation").html("(*) Invalid firstname..!!");
+						TxtFNameFlag = false;
+					}
+					else {
+						TxtFNameFlag = true;
+					}
+				}
+
+				$("#TxtLastnameValidation").empty();
+				if ($("#TxtLastname").val() == "" || $("#TxtLastname").val() == null) {
+					$("#TxtLastnameValidation").html("(*) Lastname required..!!");
+					TxtLNameFlag = false;
+				}
+				else {
+					if (!$("#TxtLastname").val().match($TxtLastnameRegEx)) {
+						$("#TxtLastnameValidation").html("(*) Invalid Last..!!");
+						TxtLNameFlag = false;
+					}
+					else {
+						TxtLNameFlag = true;
+					}
+				}
+
+				$("#TxtEmailIdValidation").empty();
+				if ($("#TxtEmailId").val() == "" || $("#TxtEmailId").val() == null) {
+					$("#TxtEmailIdValidation").html("(*) Email id required..!!");
+					TxtEmailIdFlag = false;
+				}
+				else {
+					if (!$("#TxtEmailId").val().match($EmailIdRegEx)) {
+						$("#TxtEmailIdValidation").html("(*) Invalid email id..!!");
+						TxtEmailIdFlag = false;
+					}
+					else {
+						TxtEmailIdFlag = true;
+					}
+				}
+
+
+				$("#TxtContactNoValidation").empty();
+				if ($("#TxtContactNo").val() == "" || $("#TxtContactNo").val() == null) {
+					$("#TxtContactNoValidation").html("(*) Contact no. required..!!");
+					TxtContactNoFlag = false;
+				}
+				else {
+					if (!$("#TxtContactNo").val().match($ConNoRegEx)) {
+						$("#TxtContactNoValidation").html("(*) Invalid contact no..!!");
+						TxtContactNoFlag = false;
+					}
+					else {
+						TxtContactNoFlag = true;
+					}
+				}
+
+				$("#TxtPasswordValidation").empty();
+				if ($("#TxtPassword").val() == "") {
+					$("#TxtPasswordValidation").html("(*)Password is Required..!!!")
+					TxtPasswordFlag = false;
+				}
+				else {
+					if (!$("#TxtPassword").val().match($PasswordRegEx)) {
+						$("#TxtPasswordValidation").html("(*)Invalid Password..!!")
+						TxtPasswordFlag = false;
+
+					}
+					else {
+						TxtPasswordFlag = true;
+					}
+				}
+
+
+				$("#TxtAgeValidation").empty();
+				if ($("#TxtAge").val() == "" || $("#TxtAge").val() == null) {
+					$("#TxtAgeValidation").html("(*)Age is Required..!!!")
+					TxtAgeFlag = false;
+				}
+				else {
+					if ((!$("#TxtAge").val().match($AgeRegEx)) || ($("#TxtAge").val() < 18) || ($("#TxtAge").val > 110)) {
+						$("#TxtAgeValidation").html("(*)Age must be greater than or equal to 18..!!")
+						TxtAgeFlag = false;
+
+					}
+					else {
+						TxtAgeFlag = true;
+					}
+				}
+
+				$("#TxtDOBValidation").empty();
+				if ($("#TxtDOB").val() == "" || $("#TxtDOB").val() == null) {
+					$("#TxtDOBValidation").html("(*) DOB required..!!")
+					TxtDOBFlag = false;
+				}
+				else {
+					TxtDOBFlag = true;
+				}
+
+
+				if (TxtFNameFlag == true && TxtLNameFlag == true && TxtEmailIdFlag == true && TxtContactNoFlag == true && TxtPasswordFlag == true && TxtAgeFlag == true && TxtDOBFlag == true && TxtGenderFlag == true) {
+					
+					alert("Form submitted successfully..!!");
+				}
+				else {
+					alert("Invalid input..!!");
+				}
+			});
+		});
+
+
+
+	</script>
+	<style type="text/css">
+		#CNAForms {
+			box-shadow: 0px 0px 5px gray;
+			margin-top: 20px;
+			margin-bottom: 20px;
+		}
+
+		i.fa,
+		b {
+			color: teal;
+		}
+	</style>
+</head>
+
+<body>
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-offset-4 col-lg-4 col-md-offset-4 col-md-4 col-sm-offset-3 col-sm-6 col-xs-12"
+				id="CNAForms">
+				<h3 class="text-center"><i class="fa fa-user-plus"></i> Create New Account</h3>
+				<hr />
+				<div class="form-group">
+					<b>Firstname</b>
+					<div class="input-group">
+						<span class="input-group-addon"><i class="fa fa-user"></i></span>
+						<input id="TxtFirstname" type="text" placeholder="Enter firstname " maxlength="20"
+							class="form-control" />
+					</div>
+					<small id="TxtFirstnameValidation" class="text-danger"></small>
+				</div>
+				<div class="form-group">
+					<b>Lastname</b>
+					<div class="input-group">
+						<span class="input-group-addon"><i class="fa fa-user"></i></span>
+						<input id="TxtLastname" type="text" placeholder="Enter lastname " maxlength="20"
+							class="form-control" />
+					</div>
+					<small id="TxtLastnameValidation" class="text-danger"></small>
+				</div>
+				<div class="form-group">
+					<b>Gender</b>
+					<div class="input-group">
+						<span class="input-group-addon"><i class="fa fa-female"></i> | <i class="fa fa-male"></i></span>
+						<select id="DDL_Gender" class="form-control">
+							<option value="none" selected>Select</option>
+							<option value='F'>Female</option>
+							<option value='M'>Male</option>
+						</select>
+					</div>
+					<small id="TxtGenderValidation" class="text-danger"></small>
+				</div>
+				<div class="form-group">
+					<b><i class="fa fa-phone"></i> Contact No.</b>
+					<div class="input-group">
+						<span class="input-group-addon">+91</span>
+						<input id="TxtContactNo" type="text" placeholder="Enter contact no." maxlength="10"
+							class="form-control" />
+					</div>
+					<small id="TxtContactNoValidation" class="text-danger"></small>
+				</div>
+				<div class="form-group">
+					<b>Age</b>
+					<div class="input-group">
+						<span class="input-group-addon"><i class="fa fa-child"></i></span>
+						<input id="TxtAge" type="text" placeholder="Enter your age.." maxlength="3"
+							class="form-control" />
+					</div>
+					<small id="TxtAgeValidation" class="text-danger"></small>
+				</div>
+
+				<div class="form-group">
+					<b>DOB</b>
+					<div class="input-group">
+						<span class="input-group-addon"><i class="fa fa-birthday-cake"></i></span>
+						<input id="TxtDOB" type="text" placeholder="Enter your DOB " class="form-control" />
+					</div>
+					<small id="TxtDOBValidation" class="text-danger"></small>
+				</div>
+
+				<div class="form-group">
+					<b>Email</b>
+					<div class="input-group">
+						<span class="input-group-addon"><i class="fa fa-envelope"></i></span>
+						<input id="TxtEmailId" type="text" placeholder="Enter email id " maxlength="50"
+							class="form-control" />
+					</div>
+					<small id="TxtEmailIdValidation" class="text-danger"></small>
+				</div>
+				<div class="form-group">
+					<b>Password</b>
+					<div class="input-group">
+						<span class="input-group-addon"><i class="fa fa-key"></i></span>
+						<input id="TxtPassword" type="text" placeholder="Enter password " maxlength="12"
+							class="form-control" />
+					</div>
+					<small id="TxtPasswordValidation" class="text-danger"></small>
+				</div>
+
+				<div class="form-group">
+					<a class="btn btn-primary" id="BtnSubmit"><i class="fa fa-user-plus" style="color:white;"></i> New
+						Account</a>
+				</div>
+			</div>
+
+		</div>
+	</div>
+
+</body>
+
+</html>
